@@ -9,7 +9,6 @@ p{
     background-color: gray;
     color:white
 }
-
 #p1{
     background-color: black;
 }
@@ -21,4 +20,11 @@ p{
 }
 #p4{
     background-color:orange;
+}
+
+.odd{
+    color:aliceblue;
+}
+.even{
+    color:purple;
 }
